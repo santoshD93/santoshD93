@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santoshD93
 - 👀 I’m interested in Elixir, React, React Native, PostgreSQL, AWS and Heroku.
 - 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on web3
+- 💞️ I’m looking to collaborate on projects in the domain of web3, fintech or health tech.
 - 📫 How to reach me: santosh.dhirwani@ves.ac.in
 
 <!---
