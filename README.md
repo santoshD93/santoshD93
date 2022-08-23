@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santoshD93
+- 👋 Hi, I’m Santosh Dhirwani.
 - 👀 I’m interested in Elixir, React, React Native, PostgreSQL, AWS and Heroku.
 - 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on projects in the domain of web3, fintech or health tech.
