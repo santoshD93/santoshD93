@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Santosh Dhirwani.
-- 👀 I’m interested in Elixir/Phoenix, Ruby on Rails, Reactjs, React Native, PostgreSQL, AWS and Heroku.
+- 👀 I’m interested in Elixir/Phoenix, Ruby on Rails, Javascript, Python, SQL, AWS, REST API and GraphQL.
 - 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on projects in the domain of web3, fintech or health tech.
+- 💞️ I’m looking to collaborate on projects in the fintech industry.
 - 📫 How to reach me: santosh.dhirwani@ves.ac.in
 
 ![Visitor Count](https://profile-counter.glitch.me/santoshD93/count.svg)
